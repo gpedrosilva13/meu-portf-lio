@@ -17,8 +17,3 @@ h1 {
     font-weight: 700;
 }
 
-btn btn-primary {
-     background-color: black;
-  color: white;              /* cor do texto */
-  border: none; 
-}
