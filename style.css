@@ -16,3 +16,7 @@ h1 {
     
     font-weight: 700;
 }
+
+btn btn-primary {
+    color: black;
+}
